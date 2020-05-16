@@ -12,7 +12,6 @@ type Setting struct {
 }
 
 func main() {
-	fmt.Println("Hello World!")
 	loadSettingFile()
 }
 
